@@ -1,0 +1,15 @@
+C:\Users\TRA\source\repos\C-Sharp-Dictionary\C-Sharp-Dictionary\bin\Debug\net6.0\C-Sharp-Dictionary.exe
+C:\Users\TRA\source\repos\C-Sharp-Dictionary\C-Sharp-Dictionary\bin\Debug\net6.0\C-Sharp-Dictionary.deps.json
+C:\Users\TRA\source\repos\C-Sharp-Dictionary\C-Sharp-Dictionary\bin\Debug\net6.0\C-Sharp-Dictionary.runtimeconfig.json
+C:\Users\TRA\source\repos\C-Sharp-Dictionary\C-Sharp-Dictionary\bin\Debug\net6.0\C-Sharp-Dictionary.dll
+C:\Users\TRA\source\repos\C-Sharp-Dictionary\C-Sharp-Dictionary\bin\Debug\net6.0\C-Sharp-Dictionary.pdb
+C:\Users\TRA\source\repos\C-Sharp-Dictionary\C-Sharp-Dictionary\obj\Debug\net6.0\C-Sharp-Dictionary.csproj.AssemblyReference.cache
+C:\Users\TRA\source\repos\C-Sharp-Dictionary\C-Sharp-Dictionary\obj\Debug\net6.0\C-Sharp-Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TRA\source\repos\C-Sharp-Dictionary\C-Sharp-Dictionary\obj\Debug\net6.0\C-Sharp-Dictionary.AssemblyInfoInputs.cache
+C:\Users\TRA\source\repos\C-Sharp-Dictionary\C-Sharp-Dictionary\obj\Debug\net6.0\C-Sharp-Dictionary.AssemblyInfo.cs
+C:\Users\TRA\source\repos\C-Sharp-Dictionary\C-Sharp-Dictionary\obj\Debug\net6.0\C-Sharp-Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\TRA\source\repos\C-Sharp-Dictionary\C-Sharp-Dictionary\obj\Debug\net6.0\C-Sharp-Dictionary.dll
+C:\Users\TRA\source\repos\C-Sharp-Dictionary\C-Sharp-Dictionary\obj\Debug\net6.0\refint\C-Sharp-Dictionary.dll
+C:\Users\TRA\source\repos\C-Sharp-Dictionary\C-Sharp-Dictionary\obj\Debug\net6.0\C-Sharp-Dictionary.pdb
+C:\Users\TRA\source\repos\C-Sharp-Dictionary\C-Sharp-Dictionary\obj\Debug\net6.0\C-Sharp-Dictionary.genruntimeconfig.cache
+C:\Users\TRA\source\repos\C-Sharp-Dictionary\C-Sharp-Dictionary\obj\Debug\net6.0\ref\C-Sharp-Dictionary.dll
